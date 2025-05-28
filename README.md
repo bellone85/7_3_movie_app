@@ -1,1 +1,3 @@
-# 7_3_movie_app hello
+# 7_3_movie_app
+
+안녕하세요.
